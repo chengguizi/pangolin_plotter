@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pangolin_plotter" type="pangolin_plotter" name="pangolin_plotter" output="screen"/>
+</launch>
